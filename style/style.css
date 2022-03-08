@@ -24,7 +24,6 @@ body {
   flex-wrap: wrap;
   align-content: flex-start;
 
-  /* height: 300px; */
   max-width: 800px;
   width: 90vw;
   aspect-ratio: 1;
